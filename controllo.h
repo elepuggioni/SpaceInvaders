@@ -1,0 +1,2 @@
+void controllo();
+void stampaTutto();
